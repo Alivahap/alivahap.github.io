@@ -26,6 +26,8 @@ Work experience
   * Github University
   * Duties included: Merging pull requests
   * Supervisor: Professor Hub
+  <p> mdenemeemememe </p> 
+ <img src="images/Fotoğraf.jpg" alt="Flowers in Chania">
   
 Skills
 ======
