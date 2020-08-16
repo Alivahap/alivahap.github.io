@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "tr-TR"
-title                    : "Ali Vahap / Kişisel Websitem"
+title                    : "Ali Vahap Aydın"
 title_separator          : "-"
 name                     : &name "Ali Vahap"
 description              : &description "Computer Enginering Student"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Ali Vahap"
   avatar           : "Fotoğraf.jpg"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "Kişisel Web sitem"
   location         : "Location"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
@@ -102,19 +102,20 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : https://www.linkedin.com/in/ali-vahap-547500197/
   orcid            : "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : ""
   vine             :
   weibo            :
   xing             :
   youtube          :
   wikipedia        :
+ 
 
 
 # Reading Files
