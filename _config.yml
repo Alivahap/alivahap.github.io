@@ -10,7 +10,7 @@ locale                   : "tr-TR"
 title                    : "Ali Vahap / Kişisel Websitem"
 title_separator          : "-"
 name                     : &name "Ali Vahap"
-description              : &description "Öğrenci"
+description              : &description "Computer Enginering Student"
 url                      : https://alivahap.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "Alivahap/alivahap.github.io.github.io"
@@ -80,8 +80,8 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
-  avatar           : "profile.png"
+  name             : "Ali Vahap"
+  avatar           : "Fotoğraf.jpg"
   bio              : "Your biography for the left-hand sidebar"
   location         : "Location"
   employer         :
