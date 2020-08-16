@@ -1,7 +1,7 @@
 ---
 title: "E-Ticaret Sitesi"
-excerpt: "Şuan yazmaya devam etmekte olduğum e ticaret sitesi <br/><img src='/images/GencTicaret.PNG'><br/> <img src='/images/GencTicaret2.PNG'><br/>
-<img src='/images/GencTicaret2.PNG'> "
+excerpt: "Şuan yazmaya devam etmekte olduğum e ticaret sitesi <br/><br/> <img src='/images/GencTicaret.PNG'><br/> <img src='/images/GencTicaret2.PNG'><br/>
+<img src='/images/GencTicaret3.PNG'> "
 collection: portfolio
 ---
 
