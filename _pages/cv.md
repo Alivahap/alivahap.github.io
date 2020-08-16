@@ -9,32 +9,10 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
 
-Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  <p> mdenemeemememe </p> 
- <img src="../images/Fotoğraf.jpg" alt="Örnek Resim">
+  <p> Özgeçmişim </p> 
+ <img src="../images/cv_resim1.PNG.jpg" alt="Ali Vahap Aydın cv">
+ <img src="../images/cv_resim2.PNG.jpg" alt="Ali Vahap Aydın Özgeçmiş">
   
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+
 
