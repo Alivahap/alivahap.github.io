@@ -1,6 +1,6 @@
 ---
 title: "E-Ticaret Sitesi"
-excerpt: "Şuan yazmaya devam etmekte olduğum n11,hepsi burada tarzı e ticaret sitesi <br/><br/> <img src='/images/GencTicaret3.PNG'><br/> <img src='/images/GencTicaret2.PNG'><br/>
+excerpt: "Şuan php ile yazmaya devam etmekte olduğum n11,hepsi burada tarzı e ticaret sitesi <br/><br/> <img src='/images/GencTicaret3.PNG'><br/> <img src='/images/GencTicaret2.PNG'><br/>
 <img src='/images/GencTicaret.PNG'>
 <br/>
 
